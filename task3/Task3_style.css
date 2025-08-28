@@ -1,0 +1,33 @@
+body{
+    
+    background: linear-gradient(to right,  rgb(255, 255, 255), rgb(0, 213, 255));
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.Form{
+    background: linear-gradient(to left,#01a6f9, #ffffff, #01a6f9);
+    padding: 2%;
+    border-radius: 10px;
+    margin-top: 1%;
+}
+
+.Form h2{
+    text-align: center;
+}
+
+.btn{
+    background: linear-gradient(to right,#feb47b, #ff7e5f, #feb47b);
+
+    border-radius: 5px;
+    padding: 2%;
+    width: 100%;
+    color: white;
+}
+
+input{
+    outline-color: grey;
+}

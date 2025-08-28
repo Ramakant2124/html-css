@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Register Page</title>
+  <link rel="stylesheet" href="style.css">
+  <style>
+    
+  </style>
+</head>
+<body>
+
+ 
+
+  <header>
+    <div class="site-title">Ramakant Chaudhari</div>
+    <nav>
+      <a href="">Home</a>
+      <a href="">About</a>
+    </nav>
+  </header>
+
+  
+  <div class="register-container">
+    <h2>Register Account</h2>
+    <form action="/register" method="post">
+
+      <div class="form-group">
+        <label for="fullname">Full Name</label>
+        <input type="text"  placeholder="Enter your fullname" id="fullname" name="fullname" required>
+      </div>
+
+      <div class="form-group">
+        <label for="email">Username or Email</label>
+        <input type="email"  placeholder="Enter your Username or Email" id="email" name="email" required>
+      </div>
+
+      <div class="form-group">
+        <label for="password">Password</label>
+        <input type="password"  placeholder="Enter your password" id="password" name="password" required>
+      </div>
+
+      <div class="form-group">
+        <label for="confirm-password">Confirm Password</label>
+        <input type="password"  placeholder="Enter your confirm-password" id="confirm-password" name="confirm_password" required>
+      </div>
+
+      <button type="submit" class="register-button">Register</button>
+
+    </form>
+
+    <div class="login-link">
+      Already have an account? <a href="">Login</a>
+    </div>
+  </div>
+
+
+  <footer>
+    &copy; Ramakant Chaudhari.
+  </footer>
+
+</body>
+</html>

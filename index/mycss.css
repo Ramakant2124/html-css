@@ -1,0 +1,44 @@
+h1{
+    color: blueviolet;
+    text-decoration: wavy;
+    font-style: italic;
+    font-size:2em;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+
+
+.h4class{
+    color: blue;
+}
+
+#h5id{
+    color: pink;
+}
+
+.image{
+    width: 200px;
+    background-color: aqua;
+    padding: 5%;
+    margin: 5%;
+    border: 8px solid sandybrown;
+}
+.image1{
+    width: 175px;
+    background-color: rgb(242, 255, 0);
+    padding: 5%;
+    margin: 5%;
+    border: 8px solid rgb(255, 0, 81);
+
+}
+.class1{
+    background-color: aqua;
+}
+
+#ab{
+    background-color: brown;
+    
+}
