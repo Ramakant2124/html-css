@@ -10,7 +10,7 @@ Thank You!!
 ***Ramakant Chaudhari***
 
 
-|     Tags     |  Descriptio n  |     Syntax    |
+|     Tags     |  Description   |     Syntax    |
 |:-------------|:--------------:|--------------:|
-| Data 1       | Data 2         | Data 3        |
+| !DOCTYPE html    | Data 2         | Data 3        |
 | More Data    | More Centered  | More Right    |
