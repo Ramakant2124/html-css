@@ -8,3 +8,8 @@ This are the programs performed by me during the learning of html &css and anyon
 Thank You!!
 
 ***Ramakant Chaudhari***
+
+
+#    Tags	                                                Description	                                                                  Syntax
+!DOCTYPE html =:	According to the HTML specification or standards, every HTML document requires a document type declaration. :=	< !DOCTYPE html >
+abbreviation	The abbreviation tag in HTML is used to define the abbreviation or short form of an element.	<abbr title=" "> ... </abbr>
