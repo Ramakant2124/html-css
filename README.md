@@ -12,5 +12,5 @@ Thank You!!
 
 |     Tags     |  Description   |     Syntax    |
 |:-------------|:--------------:|--------------:|
-| !DOCTYPE html    | Data 2         | Data 3        |
+| !DOCTYPE html    | According to the HTML specification or standards, every HTML document requires a document type declaration.       |< !DOCTYPE html >     |
 | More Data    | More Centered  | More Right    |
