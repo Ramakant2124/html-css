@@ -10,7 +10,7 @@ Thank You!!
 ***Ramakant Chaudhari***
 
 
-| Left Aligned | Center Aligned | Right Aligned |
+|     Tags     |  Descriptio n  |     Syntax    |
 |:-------------|:--------------:|--------------:|
 | Data 1       | Data 2         | Data 3        |
 | More Data    | More Centered  | More Right    |
