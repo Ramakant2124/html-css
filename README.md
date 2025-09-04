@@ -15,7 +15,7 @@ Thank You!!
 | !DOCTYPE html    | According to the HTML specification or standards, every HTML document requires a document type declaration.       |< !DOCTYPE html >     |
 | abbreviation    | The abbreviation tag in HTML is used to define the abbreviation or short form of an element.  |<abbr title=" " </abbr>>|
 | acronym |	The acronym tag in HTML is used to define the acronym that gives useful information to browsers, translation systems, and search engines. | <acronym title=" "</acronym>> 
-|address	|The address tag in HTML indicates the contact information of a person or an organization.|	<address> ... </address>|
+|address	|The address tag in HTML indicates the contact information of a person or an organization.|	<address... </address>> |
 anchor	The anchor tag in HTML is used to create a hyperlink on the webpage.	<a href=" "> ...</a>
 applet	The applet tag in HTML was used to embed Java applets into any HTML document, discontinued starting from HTML 5.	<applet>....</applet>
 area	This area tag is used in an HTML document to map a portion of an image to make it clickable by the end-user.	<area>
